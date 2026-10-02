@@ -1,0 +1,12 @@
+{
+  "fluxion_scene": 3,
+  "entities": [
+    {
+      "uuid": "9a6c1f3e-4b7d-4e2a-8f51-3c2d7e9b0a11",
+      "name": "Game Jolt status",
+      "Transform2D": {},
+      "Text2D": { "text": "Game Jolt", "size": 18.0 },
+      "Script": { "source": "res://addons/gamejolt/presets/status_label.flux" }
+    }
+  ]
+}

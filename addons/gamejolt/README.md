@@ -70,6 +70,9 @@ private key.
 
 ## In the editor
 
+- **Game Jolt status**, in the Hierarchy's + list under Game Jolt: a line of
+  text that says who is logged in, or why nobody is - a copy of
+  `presets/status_label.json`, its script the plugin's.
 - **Game Jolt panel** (Project, Tools, Game Jolt panel): the debug player a
   Play logs in as - kept for you, not in the project - with Test login; the
   game's trophies and score tables; and what was asked.

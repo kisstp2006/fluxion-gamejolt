@@ -10,5 +10,6 @@
   "editor": "editor.flux",
   "autoload": [{ "name": "GameJolt", "path": "game_jolt.flux" }],
   "settings": { "section": "game_jolt", "label": "Game Jolt", "script": "settings.flux" },
+  "presets": [{ "name": "Game Jolt status", "group": "Game Jolt", "icon": "text", "scene": "presets/status_label.json" }],
   "leave_out": ["README.md"]
 }
