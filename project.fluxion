@@ -1,0 +1,10 @@
+{
+  "fluxion_project": 2,
+  "application": {
+    "name": "Game Jolt example",
+    "main_scene": "res://example/main.json",
+    "user_folder": "Fluxion Examples/Game Jolt example"
+  },
+  "plugins": { "enabled": ["gamejolt"] },
+  "game_jolt": { "game_id": "" }
+}

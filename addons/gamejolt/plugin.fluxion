@@ -1,0 +1,14 @@
+{
+  "fluxion_plugin": 1,
+  "name": "Game Jolt API",
+  "description": "Game Jolt's game API: the player logged in by itself, a session kept, trophies, scores, the data store, friends and the server's time; and a panel in the editor to try it.",
+  "author": "TIGames",
+  "version": "1.0.0",
+  "homepage": "https://github.com/kisstp2006/fluxion-gamejolt",
+  "license": "MIT",
+  "engine": "0.3.1",
+  "editor": "editor.flux",
+  "autoload": [{ "name": "GameJolt", "path": "game_jolt.flux" }],
+  "settings": { "section": "game_jolt", "label": "Game Jolt", "script": "settings.flux" },
+  "leave_out": ["README.md"]
+}

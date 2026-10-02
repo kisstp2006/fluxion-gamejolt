@@ -1,0 +1,7 @@
+# What the editor keeps of the project for itself - and the plugins'
+# secrets, a private key among them, which stay out of version control.
+.fluxion/
+# What an export writes.
+builds/
+zig-out/
+*.uid.tmp
